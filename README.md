@@ -17,7 +17,7 @@ La démarche pour déployer mon application en local :
 + Installer XAMPP https://www.apachefriends.org/fr/download     
 + Se connecter à Github pour me trouver : https://github.com/Chtitsoeur78/Vite-et-Gourmand-2026
   puis cloner (dupliquer) mon projet avec "git clone https://github.com/Chtitsoeur78/Vite-et-Gourmand-2026.git"
-  Git va créer un dossier "Vite-et-gourmand-2026 dans lequel sera mis le projet
+  Git va créer un dossier "Vite-et-gourmand-2026 contenant le projet.
 + Mettre le projet importé de github dans dossier htdocs C:\xampp\htdocs
 +  Lancer Xampp en ouvrant Apache et MySQL (boutons apparaissant en vert sur les deux lignes) soit en cliquant sur Start (premier bouton à gauche sur chaque ligne) soit en configurant l'ouverture automatique en cliquant sur le bouton Config en haut à droite.
 +  Importer la base de données : ouvrir le phpmyadmin avec http://localhost/phpmyadmin
