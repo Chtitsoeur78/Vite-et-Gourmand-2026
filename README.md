@@ -1,5 +1,5 @@
 # Vite-et-Gourmand-2026      
-Le projet "Vite et Gourmand - 2026" propose l'Evaluation en Cours de Formation (E.C.F.) donné par Studi dans le cadre de sa formation "Tp - Développeur web et web mobile".
+Le projet "Vite et Gourmand - 2026" propose l'Evaluation en Cours de Formation (E.C.F.) donné par Studi dans le cadre de sa formation "TP - Développeur Web et Web mobile".
 Il consiste à créer le site internet et l'application mobile de la société "Vite et Gourmand", entreprise de Traiteur Livreur de José et Julie à Bordeaux en Gironde.
 
 + Les langages utilisés sont
@@ -25,4 +25,4 @@ Créer une nouvelle base de données dans la colonne de gauche en la nommant par
 Importer le fichier .sql de Github en cliquant en haut au centre sur importer
 + Ouvrir le site sur http://localhost/ecf
 
-information de configuration : Les paramètres de connexion à la base sont dans : le fichier connexion.php
+Configuration : Les paramètres de connexion à la base de données sont dans le fichier connexion.php
