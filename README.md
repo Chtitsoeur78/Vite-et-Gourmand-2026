@@ -1,5 +1,4 @@
-# Vite-et-Gourmand-2026
-# Vite-et-Gourmand-2026        
+# Vite-et-Gourmand-2026      
 Le projet "Vite et Gourmand - 2026" propose l'Evaluation en Cours de Formation (E.C.F.) donné par Studi dans le cadre de sa formation "Graduate Développeur Angular.
 Il consiste à créer le site internet et l'application mobile de la société "Vite et Gourmand", entreprise de Traiteur Livreur de José et Julie à Bordeaux en Gironde.
 Les langages utilisés sont HTML/CSS/JAVASCRIPT pour le front-end, PHP pour le back-end, le SQL pour les bases de données relationnelles. 
@@ -16,3 +15,5 @@ La démarche pour déployer mon application en local :
 Créer une nouvelle base de données dans la colonne de gauche en la nommant par exemple vite_et_gourmand.sql
 Importer le fichier .sql de Github en cliquant en haut au centre sur importer
 + Ouvrir le site sur http://localhost/ecf
+
+information de configuration : Les paramètres de connexion à la base sont dans : le fichier connexion.php
