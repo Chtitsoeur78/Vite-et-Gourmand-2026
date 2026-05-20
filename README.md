@@ -8,7 +8,7 @@ Les logiciels et sites internet utilisés sont : Figma et Trello pour le travail
 La démarche pour déployer mon application en local : 
 + Installer XAMPP https://www.apachefriends.org/fr/download     
 + Se connecter à Github pour me trouver : https://github.com/Chtitsoeur78/Vite-et-Gourmand-2026
-  puis télécharger mon projet avec                                                                                  git clone https://github.com/Chtitsoeur78/Vite-et-Gourmand-2026.git
+  puis cloner (dupliquer) mon projet avec                                                                           git clone https://github.com/Chtitsoeur78/Vite-et-Gourmand-2026.git
   git va créer un dossier "Vite-et-gourmand-2026 dans lequel sera mis le projet
 + Mettre le projet importé de github dans dossier htdocs C:\xampp\htdocs
 +  Lancer Xampp en ouvrant Apache et MySQL (boutons apparaissant en vert sur les deux lignes) soit en cliquant sur Start (premier bouton à gauche sur chaque ligne) soit en configurant l'ouverture automatique en cliquant sur le bouton Config en haut à droite.
