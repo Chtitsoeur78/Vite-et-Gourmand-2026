@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <!-- balises meta indispensables -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Vite et Gourmand est une plate-forme de commande de repas utilisable dans la région de Bordeaux."
+    />
+    <!-- liaison avec la feuille de style externe de CSS -->
+    <link rel="stylesheet" href="styles.css"/>
+    <link rel="stylesheet" href="les-menus-du-moment.css"/>
+    <!-- Titre de la Page -->
+    <title>Vite et Gourmand - Les Conditions Générales de Vente</title>
+  </head>
+  <body>
+    <!-- header : l'en-tête de la page d'accueil -->
+    <header class="header-conteneur">
+      <button id="openBtn" class="burger" aria-label="ouvrir le menu de navigation" aria-expanded="false" aria-controls="menu-navigation" type="button">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav id="utilisateur-gauche" class="utilisateur-gauche">
+        <a id="closeBtn" href="#" class="close">X</a>
+        <ul id="menu-navigation" class="menu-navigation">
+          <li><a href="index.html">Page d'Accueil</a></li>
+          <li><a href="formulaire-connexion.html">Page Connexion</a></li>
+          <li><a href="formulaire-contact.html">Page Contact</a></li>
+        </ul>
+      </nav>
+      <section>
+        <h1>Les détails du menu charentais</h1>
+      </section>
+      <section class="logo-droite">
+        <img class="logo-droite" src="Photos/logot.png" alt="Logo de Vite et Gourmand, la plate-forme pour manger vite et bien">
+      </section>
+    </header>
+    <main>
+        <section class="menus-du-moment">
+          <p>Vite et Gourmand vous propose de la cuisine française raffinée, pour pas cher et à déguster chez vous quand vous le souhaitez .... </p>
+          <p>Les menus "Sud-Ouest" et "Menu de Fête" changent tous les mois pour varier vos plaisirs gustatifs.</p>
+          <p> Ce mois-ci, Vite et Gourmand vous propose : </p>
+          <section class="menus-contenu">
+            <h2>Le Menu "Sud-Ouest"</h2>
+        <div class="menus-sudouest">
+            <h3>LES CHARENTES DANS VOTRE ASSIETTE</h3>
+            <p>Offrez vous ce mois-ci une escapade gourmande entre terre et mer avec notre menu charentais. </p>
+            <p>Notre Mouclade préparée à base de moules fraîches et d'une sauce onctueuse et épicée à point vous permettra de partager un menu gourmand aux accents d'Atlantique.</p>
+            <p>Nombre minimal de personnes : 4</p>
+            <p>Prix pour 4 : 40 € (entrée + plat du jour + dessert)</p>
+            <p>
+            <button type="submit" name="OK" value="Envoyer"> DÉTAILS</button>    
+            </p>
+            <div>
+          </section>
+        <section>
+            <h2>Le Menu "Classique"</h2>   
+            <div class="commande-en-cours"></div>
+        </section>
+        <section>
+            <h2>Commandes passées</h2>
+            <div class="commandes-passees"></div>   
+        </section>
+        </section>     
+    </main>
+  <!-- liaison avec la page externe de Javascript -->
+    <script src="menu-burger.js"></script> 
+  </body>
+</html>

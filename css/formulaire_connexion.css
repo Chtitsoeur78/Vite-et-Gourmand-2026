@@ -1,0 +1,41 @@
+.header_conteneur {
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  gap: 1rem;
+  align-items: center;
+  min-width: 0;
+  width: 100%;
+  padding: 0.4rem;
+  flex-wrap: nowrap;
+}
+
+.logo {
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img {
+  max-width: 120px;
+  height: auto;
+}
+
+.menu[hidden] {
+  display: none;
+}
+
+.centre {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0;
+}

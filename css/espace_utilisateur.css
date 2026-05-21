@@ -1,0 +1,66 @@
+.header_conteneur {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 0.5rem;
+    flex-wrap: nowrap;
+    box-sizing: border-box;
+}
+
+.titre_header {
+    flex: 1;
+    min-width: 0;
+}
+
+.logo {
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.logo img {
+    width: clamp(60px, 12vw, 90px);
+    height: auto;
+    display: block;
+}   
+
+.espace_utilisateur {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    min-width: 0;
+    flex: 1;
+}
+
+.espace_utilisateur_contenu, 
+.donnees_personnelles,
+.adresse_numerique,
+.adresse_postale {
+    background-color: #DBEAFE;
+    border: 0.1rem solid #064E38;
+    border-radius: 1.5rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    font-size: 0.9rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: clamp(1rem, 3vw, 2rem);
+    margin: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    font-size: clamp(0.9rem, 4vw, 2.5rem);
+    overflow-wrap: break-word;
+    word-break: break-word;
+    line-height: 1.1;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}

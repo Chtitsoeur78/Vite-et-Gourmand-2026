@@ -1,0 +1,535 @@
+﻿id_commune;commune_gironde;kilometrage_bordeaux
+1;Abzac;58
+2;Aillas;71
+3;Ambarès-et-Lagrave;15
+4;Ambès;29
+5;Andernos-les-Bains;48
+6;Anglade;67
+7;Arbanats;31
+8;Arcachon;66
+9;Arcins;36
+10;Arès;50
+11;Arsac;25
+12;Artigues-près-Bordeaux;15
+13;Arveyres;30
+14;Asques;30
+15;Aubiac;55
+16;Audenge;49
+17;Auriolles;70
+18;Auros;59
+19;Avensan;31
+20;Ayguemorte-les-Graves;24
+21;Bagas;83
+22;Baigneaux;40
+23;Balizac;54
+24;Barie;66
+25;Baron;2
+26;Barsac;83
+27;Bassanne;74
+28;Bassens;12
+29;Baurech;25
+30;Bayas;52
+31;Bayon/Gironde;44
+32;Bazas;68
+33;Beautiran;26
+34;Bégadan;71
+35;Bègles;6
+36;Béguey;43
+37;Belin-Beliet;45
+38;Bellebat;34
+39;Bellefond;33
+40;Belvès-de-Castillon;58
+41;Bernos-Beaulac;66
+42;Berson;43
+43;Berthez;51
+44;Beychac-et-Caillau;24
+45;Bieujac;59
+46;Biganos;46
+47;Birac;75
+48;Blaignac;73
+49;Blaignan-Prignac;67
+50;Blanquefort;11
+51;Blasimon;57
+52;Blaye;51
+53;Blésignac;36
+54;Bommes;48
+55;Bonnetan;17
+56;Bonzac;52
+57;Bordeaux;
+58;Bossugan;61
+59;Bouliac;11
+60;Bourdelles;78
+61;Bourg;40
+62;Bourideys;77
+63;Brach;39
+64;Branne;42
+65;Brannens;58
+66;Braud-et-St-Louis;67
+67;Brouqueyran;54
+68;Bruges;6
+69;Budos;42
+70;Cabanac - Villagrains;36
+71;Cabara;45
+72;Cadarsac;32
+73;Cadaujac;13
+74;Cadillac-en-Fronsadais;29
+75;Cadillac-sur-Garonne;42
+76;Camarsac;24
+77;Cambes;19
+78;Camblanes-et-Meynac;7
+79;Camiac-et-Saint-Denis;30
+80;Camiran;68
+81;Camps-sur-l'Isle;62
+82;Campugnan;54
+83;Canéjan;13
+84;Capian;32
+85;Caplong;75
+86;Captieux;87
+87;Carbon-Blanc;12
+88;Carcans;49
+89;Cardan;32
+90;Carignan-de-Bordeaux;14
+91;Cars;48
+92;Cartelègue;53
+93;Casseuil;59
+94;Castelmoron-d'Albret;58
+95;Castelnau-de-Médoc;29
+96;Castelviel;50
+97;Castets et Castillon;56
+98;Castillon-la-Bataille;47
+99;Castres-Gironde;24
+100;Caudrot;55
+101;Caumont;48
+102;Cauvignac;64
+103;Cavignac;38
+104;Cazalis;79
+105;Cazats;50
+106;Cazaugitat;56
+107;Cénac;15
+108;Cenon;9
+109;Cérons;39
+110;Cessac;44
+111;Cestas;18
+112;Cézac;37
+113;Chamadelle;65
+114;Cissac-Médoc;53
+115;Civrac-de-Blaye;41
+116;Civrac-en-Médoc;67
+117;Civrac-sur-Dordogne;39
+118;Cleyrac;53
+119;Coimères;53
+120;Coirac;46
+121;Comps;41
+122;Coubeyrac;60
+123;Couquèques;71
+124;Courpiac;42
+125;Cours-de-Monségur ;72
+126;Cours-les-Bains;76
+127;Coutras;51
+128;Coutures;63
+129;Créon;26
+130;Croignon;23
+131;Cubnezais;35
+132;Cubzac-les-Ponts;22
+133;Cudos;64
+134;Cursan;25
+135;Cussac-Fort-Médoc ;39
+136;Daignac;22
+137;Dardenac;38
+138;Daubèze;48
+139;Dieulivol;98
+140;Donnezac;62
+141;Donzac;48
+142;Doulezon;63
+143;Escaudes;88
+144;Escoussans;50
+145;Espiet;31
+146;Étauliers;61
+147;Eynesse;73
+148;Eyrans;54
+149;Eysines;8
+150;Faleyras;38
+151;Fargues;52
+152;Fargues-Saint-Hilaire;15
+153;Flaujagues;61
+154;Floirac;7
+155;Floudès;77
+156;Fontet;73
+157;Fossès-et-Baleyssac;83
+158;Fours;54
+159;Francs;62
+160;Fronsac;40
+161;Frontenac;45
+162;Gabarnac;50
+163;Gaillan-en-Médoc;67
+164;Gajac;69
+165;Galgon;40
+166;Gans;65
+167;Gardegan-et-Tourtirac;60
+168;Gauriac;45
+169;Gauriaguet;32
+170;Générac;56
+171;Génissac;35
+172;Gensac;68
+173;Gironde-sur-Dropt;63
+174;Giscos;89
+175;Gornac;56
+176;Goualade;83
+177;Gours;69
+178;Gradignan;10
+179;Grayan-et-l'Hôpital;85
+180;Grézillac;42
+181;Grignols;75
+182;Guillac;35
+183;Guillos;42
+184;Guîtres;54
+185;Gujan-Mestras;56
+186;Haux;27
+187;Hostens;49
+188;Hourtin;61
+189;Hure;74
+190;Illats;39
+191;Isle-Saint-Georges;24
+192;Izon;26
+193;Jau-Dignac-et-Loirac;81
+194;Jugazan;40
+195;Juillac;64
+196;La Brède;25
+197;La Lande-de-Fronsac;29
+198;La Réole;78
+199;La Rivière;36
+200;La Roquille;80
+201;La Sauve;29
+202;La Teste-de-Buch;60
+203;Labarde;27
+204;Labescau;59
+205;Lacanau;56
+206;Ladaux;41
+207;Lados;54
+208;Lagorce;54
+209;Lalande-de-Pomerol   ;39
+210;Lamarque;36
+211;Lamothe-Landerron  ;79
+212;Landerrouat;70
+213;Landerrouet-sur-Ségur   ;60
+214;Landiras;42
+215;Langoiran;24
+216;Langon;47
+217;Lansac;36
+218;Lanton;44
+219;Lapouyade;43
+220;Laroque;30
+221;Lartigue;84
+222;Laruscade;42
+223;Latresne;11
+224;Lavazan;70
+225;Le Barp;32
+226;Le Bouscat;4
+227;Le Fieu;63
+228;Le Haillan;9
+229;Le Nizan;55
+230;Le Pian-Médoc   ;58
+231;Le Pian-sur-Garonne   ;52
+232;Le Porge;44
+233;Le Pout;25
+234;Le Puy;66
+235;Le Taillan-Médoc ;11
+236;Le Teich;52
+237;Le Temple;36
+238;Le Tourne;24
+239;Le Tuzan;48
+240;Le Verdon-sur-Mer;98
+241;Lège-Cap-Ferret;49
+242;Léogeats;48
+243;Léognan;14
+244;Lerm-et-Musset ;73
+245;Les Artigues-de-Lussac   ;43
+246;Les Billaux;37
+247;Les Églisottes-et-Chalaures ;60
+248;Les Esseintes   ;59
+249;Les Lèves-et-Thoumeyragues  ;71
+250;Les Peintures;55
+251;Les Salles-de-Castillon;57
+252;Lesparre-Médoc ;64
+253;Lestiac-sur-Garonne;27
+254;Libourne;33
+255;Lignan-de-Bazas;62
+256;Lignan-de-Bordeaux;17
+257;Ligueux;82
+258;Listrac-de-Durèze ;58
+259;Listrac-Médoc ;35
+260;Lormont;10
+261;Loubens;59
+262;Louchats;40
+263;Loupes;20
+264;Loupiac;42
+265;Loupiac-de-la-Réole   ;68
+266;Lucmau;69
+267;Ludon-Médoc;18
+268;Lugaignac;34
+269;Lugasson;44
+270;Lugon-et-l'Île-du-Carnay   ;32
+271;Lugos;56
+272;Lussac;46
+273;Macau;21
+274;Madirac;20
+275;Maransin;43
+276;Marcenais;39
+277;Marcheprime;29
+278;Margaux-Cantenac ;27
+279;Margueron;84
+280;Marimbault;72
+281;Marions;80
+282;Marsas;34
+283;Martignas-sur-Jalle;19
+284;Martillac;20
+285;Martres;44
+286;Masseilles;74
+287;Massugas;72
+288;Mauriac;62
+289;Mazères;55
+290;Mazion;51
+291;Mérignac;6
+292;Mérignas;55
+293;Mesterrieux;86
+294;Mios;44
+295;Mombrier;42
+296;Mongauzy;79
+297;Monprimblanc;49
+298;Monségur;90
+299;Montagne;50
+300;Montagoudin;77
+301;Montignac;42
+302;Montussan;19
+303;Morizès;67
+304;Mouillac;33
+305;Mouliets-et-Villemartin;57
+306;Moulis-en-Médoc;35
+307;Moulon;38
+308;Mourens;53
+309;Naujac-sur-Mer;64
+310;Naujan-et-Postiac;38
+311;Néac;45
+312;Nérigean;34
+313;Neuffons;88
+314;Noaillac;52
+315;Noaillan;61
+316;Omet;47
+317;Ordonnac;67
+318;Origne;48
+319;Paillet;29
+320;Parempuyre;18
+321;Pauillac;52
+322;Pellegrue;72
+323;Périssac;36
+324;Pessac;6
+325;Pessac-sur-Dordogne;67
+326;Petit-Palais-et-Cornemps;63
+327;Peujard;32
+328;Pineuilh;77
+329;Plassac;50
+330;Pleine-Selve;67
+331;Podensac;42
+332;Pomerol;43
+333;Pompéjac;74
+334;Pompignac;15
+335;Pondaurat;72
+336;Porchères;69
+337;Porte-de-Benauge;52
+338;Portets;28
+339;Préchac;67
+340;Preignac;46
+341;Prignac-et-Marcamps;31
+342;Pugnac;37
+343;Puisseguin;55
+344;Pujols;60
+345;Pujols-sur-Ciron;44
+346;Puybarban;74
+347;Puynormand;67
+348;Queyrac;72
+349;Quinsac;16
+350;Rauzan;43
+351;Reignac;62
+352;Rimons;72
+353;Riocaud;83
+354;Rions;32
+355;Roaillan;55
+356;Romagne;41
+357;Roquebrune;85
+358;Ruch;59
+359;Sablons;53
+360;Sadirac;22
+361;Saillans;39
+362;Saint-Aignan;37
+363;Saint-André-de-Cubzac;26
+364;Saint-André-du-Bois;58
+365;Saint-André-et-Appelles;77
+366;Saint-Androny;57
+367;Saint-Antoine-du-Queyret;67
+368;Saint-Antoine-sur-l'Isle;71
+369;Saint-Aubin-de-Blaye;59
+370;Saint-Aubin-de-Branne;45
+371;Saint-Aubin-de-Médoc;15
+372;Saint-Avit-de-Soulège;71
+373;Saint-Avit-Saint-Nazaire;76
+374;Saint-Brice;48
+375;Saint-Caprais-de-Bordeaux ;18
+376;Saint-Christoly-de-Blaye ;43
+377;Saint-Christoly-Médoc;71
+378;Saint-Christophe-de-Double    ;68
+379;Saint-Christophe-des-Bardes   ;47
+380;Saint-Cibard;53
+381;Saint-Ciers-d'Abzac ;40
+382;Saint-Ciers-de-Canesse;43
+383;Saint-Ciers-sur-Gironde;65
+384;Saint-Côme;62
+385;Saint-Denis-de-Pile;42
+386;Saint-Émilion;41
+387;Saint-Estèphe;60
+388;Saint-Étienne-de-Lisse;46
+389;Saint-Exupéry;65
+390;Saint-Félix-de-Foncaude;43
+391;Saint-Ferme;62
+392;Saint-Genès-de-Blaye;52
+393;Saint-Genès-de-Castillon;49
+394;Saint-Genès-de-Fronsac;33
+395;Saint-Genès-de-Lombaud;23
+396;Saint-Germain-d'Esteuil;62
+397;Saint-Germain-de-Grave;50
+398;Saint-Germain-de-la-Rivière;33
+399;Saint-Germain-du-Puch;26
+400;Saint-Gervais;28
+401;Saint-Girons-d'Aiguevives;45
+402;Saint-Hilaire-de-la-Noaille;61
+403;Saint-Hilaire-du-Bois;44
+404;Saint-Hippolyte;48
+405;Saint-Jean-d'Illac;18
+406;Saint-Jean-de-Blaignac;41
+407;Saint-Julien-Beychevelle;49
+408;Saint-Laurent-d'Arce;31
+409;Saint-Laurent-des-Combes;43
+410;Saint-Laurent-du-Bois;50
+411;Saint-Laurent-du-Plan;66
+412;Saint-Laurent-Médoc;44
+413;Saint-Léger-de-Balson;55
+414;Saint-Léon;33
+415;Saint-Loubert;54
+416;Saint-Loubès;20
+417;Saint-Louis-de-Montferrand ;16
+418;Saint-Macaire;50
+419;Saint-Magne;38
+420;Saint-Magne-de-Castillon;52
+421;Saint-Maixant;53
+422;Saint-Mariens;41
+423;Saint-Martial;62
+424;Saint-Martin-de-Laye;50
+425;Saint-Martin-de-Lerm;87
+426;Saint-Martin-de-Sescas;57
+427;Saint-Martin-du-Bois;42
+428;Saint-Martin-du-Puy;70
+429;Saint-Martin-Lacaussade;51
+430;Saint-Médard-d'Eyrans;20
+431;Saint-Médard-de-Guizières;61
+432;Saint-Médard-en-Jalles;15
+433;Saint-Michel-de-Castelnau;95
+434;Saint-Michel-de-Fronsac;37
+435;Saint-Michel-de-Lapujade;83
+436;Saint-Michel-de-Rieufret;34
+437;Saint-Morillon;29
+438;Saint-Palais;66
+439;Saint-Pardon-de-Conques;56
+440;Saint-Paul;49
+441;Saint-Pey-d'Armens;48
+442;Saint-Pey-de-Castets;55
+443;Saint-Philippe-d'Aiguille;58
+444;Saint-Philippe-du-Seignal;79
+445;Saint-Pierre-d'Aurillac;55
+446;Saint-Pierre-de-Bat;53
+447;Saint-Pierre-de-Mons;53
+448;Saint-Quentin-de-Baron;28
+449;Saint-Quentin-de-Caplong;74
+450;Saint-Romain-la-Virvée;28
+451;Saint-Sauveur;51
+452;Saint-Sauveur-de-Puynormand;65
+453;Saint-Savin;46
+454;Saint-Selve;27
+455;Saint-Seurin-de-Bourg;42
+456;Saint-Seurin-de-Cadourne;64
+457;Saint-Seurin-de-Cursac;52
+458;Saint-Seurin-sur-l'Isle;65
+459;Saint-Sève;80
+460;Saint-Sulpice-de-Faleyrens;42
+461;Saint-Sulpice-de-Guilleragues;86
+462;Saint-Sulpice-de-Pommiers;68
+463;Saint-Sulpice-et-Cameyrac;11
+464;Saint-Symphorien;62
+465;Saint-Trojan;45
+466;Saint-Vincent-de-Paul;20
+467;Saint-Vincent-de-Pertignas ;42
+468;Saint-Vivien-de-Blaye;39
+469;Saint-Vivien-de-Médoc;84
+470;Saint-Vivien-de-Monségur;72
+471;Saint-Yzan-de-Soudiac;43
+472;Saint-Yzans-de-Médoc;68
+473;Sainte-Colombe;56
+474;Sainte-Croix-du-Mont;46
+475;Sainte-Eulalie;15
+476;Sainte-Florence;39
+477;Sainte-Foy-la-Grande;71
+478;Sainte-Foy-la-Longue;62
+479;Sainte-Gemme;57
+480;Sainte-Hélène;30
+481;Sainte-Radegonde;60
+482;Sainte-Terr;53
+483;Salaunes;24
+484;Sallebœuf;18
+485;Salles;48
+486;Samonac;40
+487;Saucats;23
+488;Saugon;48
+489;Saumos;39
+490;Sauternes;56
+491;Sauveterre-de-Guyenne;63
+492;Sauviac;74
+493;Savignac;62
+494;Savignac-de-l'Isle;49
+495;Semens;52
+496;Sendets;70
+497;Sigalens;76
+498;Sillas;77
+499;Soulac-sur-Mer;94
+500;Soulignac;38
+501;Soussac;71
+502;Soussans;37
+503;Tabanac;25
+504;Taillecavat;96
+505;Talais;87
+506;Talence;6
+507;Targon;36
+508;Tarnès;31
+509;Tauriac;36
+510;Tayac;69
+511;Teuillac;42
+512;Tizac-de-Curton;32
+513;Tizac-de-Lapouyade;43
+514;Toulenne;50
+515;Tresses;12
+516;Uzeste;62
+517;Val de Virvée;30
+518;Val-de-Livenne;62
+519;Valeyrac;77
+520;Vayres;29
+521;Vendays-Montalivet;81
+522;Vensac;78
+523;Vérac;33
+524;Verdelais;52
+525;Vertheuil;57
+526;Vignonet;45
+527;Villandraut;57
+528;Villegouge;36
+529;Villenave-d'Ornon;8
+530;Villenave-de-Rions;32
+531;Villeneuve;48
+532;Virelade;33
+533;Virsac;29
+534;Yvrac;15
